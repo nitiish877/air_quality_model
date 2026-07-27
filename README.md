@@ -32,28 +32,28 @@ The project uses the **UCI Air Quality Dataset**.
 
 - Dataset
 -     │
--     ▼
+
 - Data Cleaning
 -     │
--     ▼
+
 - Correlation Analysis
 -     │
--     ▼
+
 - Train-Test Split
 -     │
 -     ├───────────────┐
--   ▼               ▼
+
 - Custom LR      Scikit-learn LR
 -     │               │
 -     └──────Compare──┘
 -             │
--             ▼
+
 -      Random Forest
 -             │
--             ▼
+
 - Cross Validation
 -             │
--             ▼
+
 - Residual Analysis
 
 
