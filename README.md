@@ -1,4 +1,4 @@
-# Air Quality Prediction — From Scratch to Linear Regression
+# Air 🌬️ Quality Prediction — From Scratch to Linear Regression
 
 - This project was built to understand **how Linear Regression works internally** by implementing it from scratch and comparing its performance with Scikit-learn and Random Forest.
 
@@ -27,7 +27,7 @@ The project uses the **UCI Air Quality Dataset**.
 - All remaining columns are used as input features.
 
 
-## Project Workflow
+## Project Workflow 💼
 
 
 - Dataset
@@ -84,7 +84,7 @@ The models are evaluated using:
 
 The comparison focuses not only on prediction performance but also on understanding model behaviour, generalisation, and how closely the custom implementation matches Scikit-learn's results.
 
-## Tech Stack
+## Tech Stack 🛠️
 
 - Python
 - NumPy
